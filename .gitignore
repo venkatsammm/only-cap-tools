@@ -3,3 +3,5 @@
 appcopy/
 dist/
 backup/
+shot.png
+.env*
