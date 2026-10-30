@@ -1,0 +1,5 @@
+*.asar
+*.asar.unpacked/
+appcopy/
+dist/
+backup/
